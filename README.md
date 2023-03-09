@@ -52,7 +52,7 @@
 --- KODLAMA.IO SİTESİNDEKİ ŞART BLOKLARI---
 # Ödev 1 butonunu referans alarak, eğer bu butona tıklarsam içi boş. Ancak Onun içindeki Bitir ve Devam Et isimli butona tıklarsam da genel kutucuğu tik atılmış şekilde gösteriyor. 
 
-"""
+
     degisken1 = "Boş"
     degisken2 = "Tikli"
     mevcut = "Boş"
@@ -66,7 +66,7 @@
     else:
       print("Bu sekmeye girilmedi.")
       
-      ***********************************
+     # ***********************************
       
       isPressed = "False"
       
@@ -76,7 +76,7 @@
         print("Tik koy")
      
     
-"""
+
 
 
     
